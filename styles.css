@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #ba8da9;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section {
+    width: 23%;
+    float: left; 
+    margin: 1%; 
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #d0d0d0;
+    border: 1px solid #ddd;
+    height: 300px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin-top: 0;
+}
